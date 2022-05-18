@@ -36,3 +36,5 @@ Things you may want to cover:
 * run `rails javascript:install:esbuild`
 * run `rails css:install:bootstrap`
  * found **bootstrap** is already installed
+
+* add `schema.rb` file to **db** directory
